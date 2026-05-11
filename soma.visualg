@@ -4,9 +4,9 @@ var
   n2: inteiro
   soma: inteiro
 inicio
-   escreva ("Digite um numero: ")
+   escreva ("Por favor digite um numero: ")
    leia(n1)
-   escreva ("Digite outro numero: ")
+   escreva ("Agora digite outro numero: ")
    leia(n2)
    
    soma <- (n1 + n2)
